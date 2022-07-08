@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CandU241
 {
-    public abstract class Person241
+    public class Person241
     {
         public string firstName;
         public string lastName;
